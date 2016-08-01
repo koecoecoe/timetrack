@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+
+<html>
+
+  <head>
+
+
+  </head>
+
+  <body>
+
+<h1>
+    ストップウォッチ
+</h1>
+</div>
+
+
+    <h1>作業時間計測つーるー</h1>
+
+    <dl>
+      <dt>休憩</dt>
+      <dd>
+	<p id="watch">
+	  <span id="hour">00</span>
+	  :
+	  <span id="minute">00</span>
+	  :
+	  <span id="second">03</span>
+	</p>
+	<div id="btn_wrap">
+	  <a id="start" class="btn">スタート/ストップ</a>
+	  <a id="reset" class="btn">リセット</a>
+      </dd>
+
+      <dt>プランA</dd>
+      <dd>
+	<p id="watch">
+	  <span id="hour">00</span>
+	  :
+	  <span id="minute">00</span>
+	  :
+	  <span id="second">03</span>
+	</p>
+	<div id="btn_wrap">
+	  <a id="start" class="btn">スタート/ストップ</a>
+	  <a id="reset" class="btn">リセット</a>
+      </dd>
+
+
+      <dt>プランB</dt>
+      <dd>
+	<p id="watch">
+	  <span id="hour">00</span>
+	  :
+	  <span id="minute">00</span>
+	  :
+	  <span id="second">03</span>
+	</p>
+	<div id="btn_wrap">
+	  <a id="start" class="btn">スタート/ストップ</a>
+	  <a id="reset" class="btn">リセット</a>
+      </dd>
+
+
+      <dt>プランC</dd>
+      <dd>
+	<p id="watch">
+	  <span id="hour">00</span>
+	  :
+	  <span id="minute">00</span>
+	  :
+	  <span id="second">03</span>
+	</p>
+	<div id="btn_wrap">
+	  <a id="start" class="btn">スタート/ストップ</a>
+	  <a id="reset" class="btn">リセット</a>
+      </dd>
+
+
+      <dt>プランD</dt>
+      <dd>
+	<p id="watch">
+	  <span id="hour">00</span>
+	  :
+	  <span id="minute">00</span>
+	  :
+	  <span id="second">03</span>
+	</p>
+	<div id="btn_wrap">
+	  <a id="start" class="btn">スタート/ストップ</a>
+	  <a id="reset" class="btn">リセット</a>
+      </dd>
+
+
+      <dt>プランE</dd>
+      <dd>
+	<p id="watch">
+	  <span id="hour">00</span>
+	  :
+	  <span id="minute">00</span>
+	  :
+	  <span id="second">03</span>
+	</p>
+	<div id="btn_wrap">
+	  <a id="start" class="btn">スタート/ストップ</a>
+	  <a id="reset" class="btn">リセット</a>
+      </dd>
+
+      
+      <dt>プランF</dt>
+      <dd>
+	<p id="watch">
+	  <span id="hour">00</span>
+	  :
+	  <span id="minute">00</span>
+	  :
+	  <span id="second">03</span>
+	</p>
+	<div id="btn_wrap">
+	  <a id="start" class="btn">スタート/ストップ</a>
+	  <a id="reset" class="btn">リセット</a>
+      </dd>
+
+
+      <dt>プランG</dd>
+      <dd>
+	<p id="watch">
+	  <span id="hour">00</span>
+	  :
+	  <span id="minute">00</span>
+	  :
+	  <span id="second">03</span>
+	</p>
+	<div id="btn_wrap">
+	  <a id="start" class="btn">スタート/ストップ</a>
+	  <a id="reset" class="btn">リセット</a>
+      </dd>
+    </dl>
+
+
+    <script type="text/javascript" src="./jquery-3.1.0.min.js"></script>
+    <script type="text/javascript" src="./timer.js"></script>
+    
+  </body>
+</html>
